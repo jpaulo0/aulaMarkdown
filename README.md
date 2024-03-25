@@ -41,5 +41,7 @@ Requisito de Interface	Descreve interações entre o sistema e outros.	Sincroniz
 
 #  links para acessar sites de conteúdo sobre o assunto
 ![Alt]([URL da imagem](https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o.)https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o.)
+
 ![Alt](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
+
 ![Alt](https://querobolsa.com.br/revista/engenharia-de-requisitos)
