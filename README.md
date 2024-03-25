@@ -34,3 +34,4 @@ Requisito Não Funcional	Estabelece critérios de qualidade do sistema.	Garantir
 Requisito de Domínio	Derivado do contexto em que o sistema será usado.	Cumprir os regulamentos de privacidade de dados de saúde em um sistema de gestão hospitalar.
 Requisito de Restrição	Impõe limitações ao projeto do sistema.	Desenvolver o sistema utilizando a linguagem de programação Java.
 Requisito de Interface	Descreve interações entre o sistema e outros.	Sincronizar dados de exercícios com dispositivos wearable em um aplicativo de fitness.
+
