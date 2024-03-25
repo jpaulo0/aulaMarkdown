@@ -28,13 +28,13 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 # 📈📉Tabela comparativa📈📉
-Tipo de Requisito	Descrição	Exemplo
-Requisito Funcional	Descreve as funcionalidades específicas do sistema.	Permitir que os usuários realizem login com nome de usuário e senha.
-Requisito Não Funcional	Estabelece critérios de qualidade do sistema.	Garantir que 99,99% das transações sejam processadas em menos de um segundo.
-Requisito de Domínio	Derivado do contexto em que o sistema será usado.	Cumprir os regulamentos de privacidade de dados de saúde em um sistema de gestão hospitalar.
-Requisito de Restrição	Impõe limitações ao projeto do sistema.	Desenvolver o sistema utilizando a linguagem de programação Java.
-Requisito de Interface	Descreve interações entre o sistema e outros.	Sincronizar dados de exercícios com dispositivos wearable em um aplicativo de fitness.
-
+Exemplo   | Valor do exemplo
+--------- | ------
+Requisito Funcional | Descreve as funcionalidades específicas do sistema.	Permitir que os usuários realizem login com nome de usuário e senha.
+Requisito Não Funcional| Estabelece critérios de qualidade do sistema.	Garantir que 99,99% das transações sejam processadas em menos de um segundo.
+Requisito de Domínio | Derivado do contexto em que o sistema será usado.	Cumprir os regulamentos de privacidade de dados de saúde em um sistema de gestão hospitalar.
+Requisito de Restrição| Impõe limitações ao projeto do sistema.	Desenvolver o sistema utilizando a linguagem de programação Java.
+Requisito de Interface|Descreve interações entre o sistema e outros.	Sincronizar dados de exercícios com dispositivos wearable em um aplicativo de fitness.
 # ✍️O use case✍️
 
 ## Essa tabela ilustra como diferentes tipos de requisitos são aplicáveis em um cenário de Engenharia de Requisitos, mostrando exemplos específicos de cada tipo. Essa abordagem ajuda a compreender melhor as nuances e importância de cada tipo de requisito no desenvolvimento de software
