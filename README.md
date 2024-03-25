@@ -27,3 +27,10 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMop2fLLGa0OOcJ4vWD4NfsS_ppJLFtwBf6Bac93HmuA&s) ![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXBxnj6Wrd4bH5qiDTZul1GEUEXnltewenPGDosocnA&s)
 
 
+# Tabela comparativa
+##Tipo de Requisito	Descrição	Exemplo
+Requisito Funcional	Descreve as funcionalidades específicas do sistema.	Permitir que os usuários realizem login com nome de usuário e senha.
+Requisito Não Funcional	Estabelece critérios de qualidade do sistema.	Garantir que 99,99% das transações sejam processadas em menos de um segundo.
+Requisito de Domínio	Derivado do contexto em que o sistema será usado.	Cumprir os regulamentos de privacidade de dados de saúde em um sistema de gestão hospitalar.
+Requisito de Restrição	Impõe limitações ao projeto do sistema.	Desenvolver o sistema utilizando a linguagem de programação Java.
+Requisito de Interface	Descreve interações entre o sistema e outros.	Sincronizar dados de exercícios com dispositivos wearable em um aplicativo de fitness.
