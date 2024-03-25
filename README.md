@@ -35,3 +35,6 @@ Requisito de Domínio	Derivado do contexto em que o sistema será usado.	Cumprir
 Requisito de Restrição	Impõe limitações ao projeto do sistema.	Desenvolver o sistema utilizando a linguagem de programação Java.
 Requisito de Interface	Descreve interações entre o sistema e outros.	Sincronizar dados de exercícios com dispositivos wearable em um aplicativo de fitness.
 
+# O use case
+
+## Essa tabela ilustra como diferentes tipos de requisitos são aplicáveis em um cenário de Engenharia de Requisitos, mostrando exemplos específicos de cada tipo. Essa abordagem ajuda a compreender melhor as nuances e importância de cada tipo de requisito no desenvolvimento de software
