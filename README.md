@@ -24,4 +24,4 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ### A Engenharia de Requisitos é o processo de entender, documentar e gerenciar os requisitos do sistema. Existem diferentes tipos de requisitos, incluindo funcionais, não funcionais, de domínio, de restrição e de interface. Por exemplo, um requisito funcional pode ser "permitir que os usuários adicionem itens ao carrinho de compras", enquanto um requisito não funcional pode ser "garantir que 99,99% das transações sejam processadas em menos de um segundo". O sucesso na Engenharia de Requisitos é crucial para desenvolver sistemas de software eficazes que atendam às necessidades dos usuários e stakeholders.
 
 # Imagens
-![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMop2fLLGa0OOcJ4vWD4NfsS_ppJLFtwBf6Bac93HmuA&s)
+![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMop2fLLGa0OOcJ4vWD4NfsS_ppJLFtwBf6Bac93HmuA&s) ![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXBxnj6Wrd4bH5qiDTZul1GEUEXnltewenPGDosocnA&s)
