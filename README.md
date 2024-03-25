@@ -25,3 +25,5 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 # Imagens
 ![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMop2fLLGa0OOcJ4vWD4NfsS_ppJLFtwBf6Bac93HmuA&s) ![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXBxnj6Wrd4bH5qiDTZul1GEUEXnltewenPGDosocnA&s)
+
+
