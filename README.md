@@ -1,6 +1,6 @@
 # ✍️Pesguisa Engenharia de Requisitos✍️
 
-## O conceito geral, tipos de requisitos e considerer exemplos
+ ## O conceito geral, tipos de requisitos e considerer exemplos
 ### **A Engenharia de Requisitos é o processo de entender, documentar e gerenciar os requisitos do sistema. Existem diferentes tipos de requisitos, incluindo funcionais, não funcionais, de domínio, de restrição e de interface. Por exemplo, um requisito funcional pode ser "permitir que os usuários adicionem itens ao carrinho de compras", enquanto um requisito não funcional pode ser "garantir que 99,99% das transações sejam processadas em menos de um segundo". O sucesso na Engenharia de Requisitos é crucial para desenvolver sistemas de software eficazes que atendam às necessidades dos usuários e stakeholders**
 
 # 🌆Imagens🌆
