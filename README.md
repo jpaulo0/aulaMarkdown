@@ -19,5 +19,5 @@ Requisito de Interface|Descreve interações entre o sistema e outros|	Sincroniz
 
 ## **Essa tabela ilustra como diferentes tipos de requisitos são aplicáveis em um cenário de Engenharia de Requisitos, mostrando exemplos específicos de cada tipo. Essa abordagem ajuda a compreender melhor as nuances e importância de cada tipo de requisito no desenvolvimento de software**
 
-#  links para acessar sites de conteúdo sobre o assunto
+##  links para acessar sites de conteúdo sobre o assunto
 ![Alt]([URL da imagem](https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o.)https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o.)
